@@ -1,0 +1,8 @@
+C:\Users\Bram\source\repos\bestellen\LogicModel\bin\Debug\netcoreapp1.1\LogicModel.deps.json
+C:\Users\Bram\source\repos\bestellen\LogicModel\bin\Debug\netcoreapp1.1\LogicModel.dll
+C:\Users\Bram\source\repos\bestellen\LogicModel\bin\Debug\netcoreapp1.1\LogicModel.pdb
+C:\Users\Bram\source\repos\bestellen\LogicModel\obj\Debug\netcoreapp1.1\LogicModel.csprojResolveAssemblyReference.cache
+C:\Users\Bram\source\repos\bestellen\LogicModel\obj\Debug\netcoreapp1.1\LogicModel.csproj.CoreCompileInputs.cache
+C:\Users\Bram\source\repos\bestellen\LogicModel\obj\Debug\netcoreapp1.1\LogicModel.AssemblyInfo.cs
+C:\Users\Bram\source\repos\bestellen\LogicModel\obj\Debug\netcoreapp1.1\LogicModel.dll
+C:\Users\Bram\source\repos\bestellen\LogicModel\obj\Debug\netcoreapp1.1\LogicModel.pdb

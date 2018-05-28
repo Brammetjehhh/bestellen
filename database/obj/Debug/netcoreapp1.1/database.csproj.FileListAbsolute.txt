@@ -1,0 +1,8 @@
+C:\Users\Bram\source\repos\bestellen\database\bin\Debug\netcoreapp1.1\database.deps.json
+C:\Users\Bram\source\repos\bestellen\database\bin\Debug\netcoreapp1.1\database.dll
+C:\Users\Bram\source\repos\bestellen\database\obj\Debug\netcoreapp1.1\database.csprojResolveAssemblyReference.cache
+C:\Users\Bram\source\repos\bestellen\database\obj\Debug\netcoreapp1.1\database.csproj.CoreCompileInputs.cache
+C:\Users\Bram\source\repos\bestellen\database\obj\Debug\netcoreapp1.1\database.AssemblyInfo.cs
+C:\Users\Bram\source\repos\bestellen\database\bin\Debug\netcoreapp1.1\database.pdb
+C:\Users\Bram\source\repos\bestellen\database\obj\Debug\netcoreapp1.1\database.dll
+C:\Users\Bram\source\repos\bestellen\database\obj\Debug\netcoreapp1.1\database.pdb

@@ -1,0 +1,12 @@
+C:\Users\Bram\source\repos\bestellen\LogicModel\bin\Debug\netcoreapp1.1\LogicLayer.deps.json
+C:\Users\Bram\source\repos\bestellen\LogicModel\bin\Debug\netcoreapp1.1\LogicLayer.dll
+C:\Users\Bram\source\repos\bestellen\LogicModel\bin\Debug\netcoreapp1.1\LogicLayer.pdb
+C:\Users\Bram\source\repos\bestellen\LogicModel\obj\Debug\netcoreapp1.1\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bram\source\repos\bestellen\LogicModel\obj\Debug\netcoreapp1.1\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Bram\source\repos\bestellen\LogicModel\obj\Debug\netcoreapp1.1\LogicLayer.AssemblyInfo.cs
+C:\Users\Bram\source\repos\bestellen\LogicModel\obj\Debug\netcoreapp1.1\LogicLayer.dll
+C:\Users\Bram\source\repos\bestellen\LogicModel\obj\Debug\netcoreapp1.1\LogicLayer.pdb
+C:\Users\Bram\source\repos\bestellen\LogicModel\bin\Debug\netcoreapp1.1\database.dll
+C:\Users\Bram\source\repos\bestellen\LogicModel\bin\Debug\netcoreapp1.1\database.pdb
+C:\Users\Bram\source\repos\bestellen\LogicModel\bin\Debug\netcoreapp1.1\DataModels.dll
+C:\Users\Bram\source\repos\bestellen\LogicModel\bin\Debug\netcoreapp1.1\DataModels.pdb

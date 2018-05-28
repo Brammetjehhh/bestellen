@@ -1,0 +1,16 @@
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\bestellen.deps.json
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\bestellen.runtimeconfig.json
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\bestellen.runtimeconfig.dev.json
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\bestellen.dll
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\bestellen.pdb
+C:\Users\Bram\source\repos\bestellen\bestellen\obj\Debug\netcoreapp1.1\bestellen.csprojResolveAssemblyReference.cache
+C:\Users\Bram\source\repos\bestellen\bestellen\obj\Debug\netcoreapp1.1\bestellen.csproj.CoreCompileInputs.cache
+C:\Users\Bram\source\repos\bestellen\bestellen\obj\Debug\netcoreapp1.1\bestellen.AssemblyInfo.cs
+C:\Users\Bram\source\repos\bestellen\bestellen\obj\Debug\netcoreapp1.1\bestellen.dll
+C:\Users\Bram\source\repos\bestellen\bestellen\obj\Debug\netcoreapp1.1\bestellen.pdb
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\database.dll
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\database.pdb
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\DataModels.dll
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\LogicLayer.dll
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\DataModels.pdb
+C:\Users\Bram\source\repos\bestellen\bestellen\bin\Debug\netcoreapp1.1\LogicLayer.pdb
